@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsearse",
+        "uuid": 1235400,
+        "checksum": "k3jrhm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
